@@ -1,4 +1,4 @@
-module github.com/web-service-gin
+module github.com/hirose-shota/web-service-gin
 
 go 1.17
 
